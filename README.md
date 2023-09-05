@@ -17,3 +17,5 @@ open :  - http://test1.localhost:3000
         - http://test2.localhost:3000
         ...
         - http://test10.localhost:3000
+
+can deploy to vercel !
