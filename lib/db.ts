@@ -1,3 +1,18 @@
+// example data 
+/**
+ {
+  name: 'This is Site 1',
+  template: '001',
+  description: 'Subdomain only',
+  subdomain: 'test1'
+}
+{
+  name: 'This is Site 2',
+  template: '002',
+  description: 'Subdomain only',
+  subdomain: 'test2'
+}
+ */
 // Dummy data to be replaced with your database
 interface Hostname {
     name: string;
