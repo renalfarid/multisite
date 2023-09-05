@@ -1,5 +1,3 @@
-// pages/api/template.ts
-
 import fs from 'fs';
 import path from 'path';
 import { NextApiRequest, NextApiResponse } from 'next';
